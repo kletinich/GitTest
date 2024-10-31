@@ -3,6 +3,5 @@
 
 void main()
 {
-    std::cout << "Hello world" << std::endl;
-    int a = 100;
+    std::cout << "Hello world/n";
 }
